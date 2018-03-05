@@ -8,11 +8,7 @@ ul {
 }
 
  
-  $(document).ready(function(){
-  $('a#click-a').click(function(){
-    $('.nav').toggleClass('nav-view');
-  });
-});
+
 
 body {
   background: #FFF0F0;
